@@ -1,61 +1,42 @@
-MIT License
+FNOS (FREE-NO-OPEN-SOURCE) PUBLIC LICENSE
+Version 1.2 - 2026
 
-Copyright (c) 2012-2016 GarageGames, LLC
+1. RIGHTS TO USE & MODIFY
+This license grants individuals and legal entities (companies) the right to use and modify this source code for personal or commercial project development. Modifications are limited to technical adjustments to ensure the code runs according to the user's project requirements.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. INTELLECTUAL PROPERTY
+All original source code, logic, architecture, and algorithms are the sole intellectual property of the original authors. This license does not grant ownership rights to such intellectual property to any other party.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. LIMITED DISTRIBUTION (INTERNAL & TEAM)
+The user is permitted to share this source code with internal parties, employees, or trusted partners directly involved in the same development project, provided that:
+a) The user is solely responsible for ensuring that these parties do not distribute the source code outside the project's working environment.
+b) Any party receiving access must comply with the terms of this FNOS license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. PUBLIC REDISTRIBUTION PROHIBITED
+It is strictly forbidden to disseminate, publish, or redistribute this source code (either in whole or in part) to the public, to third parties outside the development team, or to use it as a competing library/SDK product, except with the written permission of the original author.
 
+5. BINARY & EXECUTABLE TERMS
+Users are free to distribute the final project in executable form (such as .exe, .apk, .bin) without royalty obligations. Distributing this compiled version is not considered infringement as long as the raw source code is not included.
 
-IES Profile Generator tool: https://github.com/nickmcdonald/ies-generator
+6. CENTRALIZED GLOBAL VERIFICATION SYSTEM
+To ensure authenticity, legal protection, and compliance with copyright laws, this license utilizes a centralized stateless verification system:
+a) This license is only legally valid if the user registers the project through the official FNOS verification platform to generate a unique cryptographic token (FCode).
+b) The FCode is cryptographically bound to the specific Project Name and Author/Developer entered during registration.
+c) Any change, mismatch, or manipulation of the Project Name or Author/Developer metadata will instantly invalidate the FCode, rendering the entire license null and void.
+d) Any public project using this source code without a valid, matching, and verifiable FCode in this license file shall be deemed unlicensed and a direct violation of copyright.
 
-// +----------------------------------------------------------------------
-// | Project : ray.
-// | All rights reserved.
-// +----------------------------------------------------------------------
-// | Copyright (c) 2013-2017.
-// +----------------------------------------------------------------------
-// | * Redistribution and use of this software in source and binary forms,
-// |   with or without modification, are permitted provided that the following
-// |   conditions are met:
-// |
-// | * Redistributions of source code must retain the above
-// |   copyright notice, this list of conditions and the
-// |   following disclaimer.
-// |
-// | * Redistributions in binary form must reproduce the above
-// |   copyright notice, this list of conditions and the
-// |   following disclaimer in the documentation and/or other
-// |   materials provided with the distribution.
-// |
-// | * Neither the name of the ray team, nor the names of its
-// |   contributors may be used to endorse or promote products
-// |   derived from this software without specific prior
-// |   written permission of the ray team.
-// |
-// | THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-// | "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-// | LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-// | A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-// | OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-// | SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-// | LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-// | DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-// | THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-// | (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-// | OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-// +----------------------------------------------------------------------
+7. LEGAL PROTECTION & DISCLAIMER
+THIS CODE IS PROVIDED "AS IS." THE CREATOR IS NOT RESPONSIBLE FOR ANY DAMAGES, CLAIMS, OR LEGAL ISSUES ARISING FROM THE USE OF THIS SOFTWARE.
+
+8. VIOLATIONS & AUTOMATIC REVOCATION
+Violations of any terms in this license—including leaking source code to the public or fabricating/falsifying the verification token (FCode)—will result in the automatic, immediate revocation of all rights granted under this license. Unauthorized usage after revocation constitutes copyright infringement and will be legally processed in accordance with applicable copyright laws and international intellectual property treaties.
+
+----------------------------------------------------------------------
+FNOS VERIFICATION METADATA (DO NOT MODIFY)
+The metadata below must perfectly match the official FNOS registry.
+Any alteration to these fields will permanently break FCode validation.
+
+Project Name: IBEF Engine
+Author/Developer: Rozak
+FCode: FNOS-3AFF7360B1CDD120
+----------------------------------------------------------------------
